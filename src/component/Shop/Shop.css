@@ -8,3 +8,11 @@
   gap: 40px;
   margin-left:30px;
 }
+@media screen and (max-width:560px){
+  .product-container{
+    grid-template-columns:1fr;
+  }
+}
+.cart-container{
+  position: sticky;
+}
