@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota",
+    "price": 10000,
+    "img": "https://static.fzinternal.com/common/mfg/Toyota/GR86.png?w=350"
+  },
+  {
+    "id": 2,
+    "name": "Volkswagen",
+    "price": 80000,
+    "img": "https://www.drivespark.com/car-image/640x480x100/car/37292489-volkswagen_taigun.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Daimler",
+    "price": 9000,
+    "img": "https://i.insider.com/5dcd10ea3afd377736718672?width=1000&format=jpeg&auto=webp"
+  },
+  {
+    "id": 4,
+    "name": "Ford",
+    "price": 11000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYURvMUufPZi5U7ZTxKCzADuPhaxrnpZi8Sg&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "Honda",
+    "price": 15000,
+    "img": "https://static.fzinternal.com/common/mfg/Honda/Accord.png?w=350"
+  },
+  {
+    "id": 6,
+    "name": "BMW",
+    "price": 25000,
+    "img": "https://inv.assets.sincrod.com/ChromeColorMatch/us/TRANSPARENT_cc_2022BMC840002_01_1280_300.png"
+  },
+  {
+    "id": 7,
+    "name": "SAIC",
+    "price": 15000,
+    "img": "http://c2.gasgoo.com/autonews/moblogo/News/UEditor/image/20190402/6368981601063675137868303.png"
+  },
+  {
+    "id": 8,
+    "name": "Hyundai",
+    "price": 30000,
+    "img": "https://s7d1.scene7.com/is/image/hyundai/2022-venue-ltd-intense-blue-centered-browse-hero:Browse?fmt=png-alpha"
+  },
+  {
+    "id": 9,
+    "name": "Nissan",
+    "price": 31000,
+    "img": "https://ymimg1.b8cdn.com/resized/article/4619/pictures/3336344/listing_main_Nissan_Patrol_2017__2_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "KIA",
+    "price": 14000,
+    "img": "https://cdn.motor1.com/images/mgl/xW2gP/s1/all-new-kia-sorento.webp"
+  },
+  {
+    "id": 11,
+    "name": "Tesla",
+    "price": 19000,
+    "img": "https://nypost.com/wp-content/uploads/sites/2/2022/02/tesla-recalls-579000-cars-fourth-recall.jpg?quality=80&strip=all&w=744"
+  },
+  {
+    "id": 12,
+    "name": "Volvo",
+    "price": 18000,
+    "img": "https://www.volvocars.com/images/v/-/media/project/contentplatform/data/media/my23/homepage/homepage-gallery-01-1x1.jpg?h=1080&iar=0&w=1080"
+  }
+]

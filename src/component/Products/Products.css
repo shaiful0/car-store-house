@@ -1,0 +1,21 @@
+.product{
+height: 400px;
+width: 300px;
+border: 2px solid olive;
+border-radius: 20px;
+padding: 10px;
+}
+.product img{
+  height: 250px;
+  width: 250px;
+}
+.cart-btn{
+  border: none;
+  font-size: 18px;
+  width: 100%;
+  background-color: orchid;
+  border-radius: 100px;
+}
+.cart-btn:hover{
+  background-color: orange;
+}
