@@ -7,6 +7,7 @@ const Shop = () => {
     // console.log(products);
     const [cart , setCart] = useState([]);
     
+    
 
     
 
@@ -21,16 +22,14 @@ const Shop = () => {
       setCart(newCart);
 
     }
+   
+   
+
     const removeElement = () =>{
       const newCart = []
       setCart(newCart)
     }
 
-
-    const randomNumber = (max , min) => {
-      Math.floor(Math.random() * cart.length)
-    }
-    const rndInt =randomNumber(0, cart.length)
 
 
   return (
@@ -52,7 +51,7 @@ const Shop = () => {
            <h2 key={item.id}>{item.name}</h2>
          ))
        } 
-      <p><button onClick={() =>randomNumber(rndInt)}>Choose One</button></p>       
+      <p><button>Choose One</button></p>       
        <p><button onClick={removeElement}>Reset</button></p> 
             
       </div>
