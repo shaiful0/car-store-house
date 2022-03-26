@@ -4,6 +4,7 @@ import React from 'react';
 import './Products.css'
 
 const Products = (props) => {
+  // console.log(props);
   const {product,handleAddToCart} = props;
   const {name,img,price} = product;
   return (
@@ -15,7 +16,7 @@ const Products = (props) => {
       <FontAwesomeIcon icon={faCartShopping}></FontAwesomeIcon> 
       </button>
       
-    </div>
+      </div>
   );
 };
 
